@@ -39,10 +39,9 @@ namespace Converter4
             // 
             this.linkLabel1.AutoSize = true;
             this.linkLabel1.BackColor = System.Drawing.Color.Transparent;
-            this.linkLabel1.Location = new System.Drawing.Point(441, 182);
-            this.linkLabel1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.linkLabel1.Location = new System.Drawing.Point(331, 148);
             this.linkLabel1.Name = "linkLabel1";
-            this.linkLabel1.Size = new System.Drawing.Size(100, 16);
+            this.linkLabel1.Size = new System.Drawing.Size(85, 13);
             this.linkLabel1.TabIndex = 0;
             this.linkLabel1.TabStop = true;
             this.linkLabel1.Text = "www.2DQ8.com";
@@ -52,10 +51,9 @@ namespace Converter4
             // 
             this.button1.BackgroundImage = global::Converter4.Properties.Resources.About_us;
             this.button1.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.button1.Location = new System.Drawing.Point(19, 18);
-            this.button1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button1.Location = new System.Drawing.Point(14, 15);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(203, 180);
+            this.button1.Size = new System.Drawing.Size(209, 181);
             this.button1.TabIndex = 1;
             this.toolTip1.SetToolTip(this.button1, "Stop/Start Music");
             this.button1.UseVisualStyleBackColor = true;
@@ -63,15 +61,14 @@ namespace Converter4
             // 
             // Us
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.BackgroundImage = global::Converter4.Properties.Resources.Us1;
-            this.ClientSize = new System.Drawing.Size(423, 224);
+            this.ClientSize = new System.Drawing.Size(430, 222);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.linkLabel1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.MaximizeBox = false;
             this.Name = "Us";
             this.ShowInTaskbar = false;

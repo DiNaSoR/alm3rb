@@ -32,17 +32,15 @@ namespace Converter4
             // 
             // splash
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::Converter4.Properties.Resources.splash;
-            this.ClientSize = new System.Drawing.Size(796, 602);
+            this.ClientSize = new System.Drawing.Size(600, 487);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "splash";
             this.ShowInTaskbar = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "splash";
-            this.Load += new System.EventHandler(this.splash_Load);
             this.ResumeLayout(false);
 
         }

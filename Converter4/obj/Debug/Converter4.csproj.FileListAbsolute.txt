@@ -1,1 +1,17 @@
 C:\Users\Study\Desktop\Converter1.0\Source Code\Converter4\obj\Debug\Converter4.pdb
+F:\Projects\alm3rb\Converter4\bin\Debug\Converter4.exe
+F:\Projects\alm3rb\Converter4\bin\Debug\Converter4.pdb
+F:\Projects\alm3rb\Converter4\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+F:\Projects\alm3rb\Converter4\bin\Debug\Microsoft.DirectX.dll
+F:\Projects\alm3rb\Converter4\obj\Debug\Converter4.csproj.AssemblyReference.cache
+F:\Projects\alm3rb\Converter4\obj\Debug\Converter4.Form1.resources
+F:\Projects\alm3rb\Converter4\obj\Debug\Converter4.Properties.Resources.resources
+F:\Projects\alm3rb\Converter4\obj\Debug\Converter4.splash.resources
+F:\Projects\alm3rb\Converter4\obj\Debug\Converter4.Us.resources
+F:\Projects\alm3rb\Converter4\obj\Debug\Converter4.csproj.GenerateResource.cache
+F:\Projects\alm3rb\Converter4\obj\Debug\Converter4.csproj.CoreCompileInputs.cache
+F:\Projects\alm3rb\Converter4\obj\Debug\Converter4.csproj.CopyComplete
+F:\Projects\alm3rb\Converter4\obj\Debug\Converter4.exe
+F:\Projects\alm3rb\Converter4\obj\Debug\Converter4.pdb
+F:\Projects\alm3rb\Converter4\bin\Debug\Converter4.exe.config
+F:\Projects\alm3rb\Converter4\obj\Debug\Converter4.csproj.SuggestedBindingRedirects.cache

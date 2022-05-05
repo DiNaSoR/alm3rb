@@ -14,10 +14,5 @@ namespace Converter4
         {
             InitializeComponent();
         }
-
-        private void splash_Load(object sender, EventArgs e)
-        {
-
-        }
     }
 }
